@@ -34,7 +34,7 @@
         "vue-simplemde": "0.3.8",
         "vue2.0-image-viewer": "^1.0.1",
         "vuex": "3.0.1",
-        "xlsx": "^0.12.11"
+        "xlsx": "^0.17.0"
     },
     "devDependencies": {
         "autoprefixer": "^6.7.2",
